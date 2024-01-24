@@ -1,5 +1,6 @@
 <h1>Hello!!! My name is Luis Felipe!</h1>
 
+
 - 🔭 I’m currently working on my development as a dev in the front and back-end areas  
 - 🌱 I’m currently learning JavaScript and React, soon will learn Java. I'm interested in C# and .net too.
 - 👯 I’m looking to collaborate on any company that is looking for someone dedicated
@@ -38,6 +39,8 @@
   <a href = "mailto:vrluis157@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-felipe-ribeiro-vieira-6a545a261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/Lauiskk/Lauiskk/Lauiskk/blob/output/github-contribution-grid-snake.svg)
 
 <!--[![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=Lauiskk&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/Lauiskk/github-readme-stats)
 
