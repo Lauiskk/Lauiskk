@@ -78,10 +78,10 @@
 <br>
 
 <div align= "center">
-  <a href="https://github.com/Lauiskk/github-readme-stats">
+  <a href="https://github.com/Lauiskk">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lauiskk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private_true&rank_icon=github"/>
   </a>
-  <a href="https://github.com/Lauiskk/convoychat">
+  <a href="https://github.com/Lauiskk">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauiskk&layout=compact&langs_count=20&theme=tokyonight"/>
   </a>
 </div>
