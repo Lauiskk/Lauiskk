@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/luis-felipe-ribeiro-vieira-6a545a261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Lauiskk/Lauiskk/Lauiskk/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lauiskk/Lauiskk/blob/output/github-contribution-grid-snake.svg)
 
 <!--[![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=Lauiskk&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/Lauiskk/github-readme-stats)
 
