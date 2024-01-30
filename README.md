@@ -79,7 +79,7 @@
 
 <div align= "center">
   <a href="https://github.com/Lauiskk">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lauiskk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private_true&rank_icon=github"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lauiskk&show_icons=true&theme=tokyonight&bg_color=00000000&include_all_commits=true&count_private_true&rank_icon=github"/>
   </a>
   <a href="https://github.com/Lauiskk">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauiskk&layout=compact&langs_count=20&theme=tokyonight"/>
@@ -89,7 +89,7 @@
 <br/><br/>
 
 <hr/>
-<!--[![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=Lauiskk&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/Lauiskk/github-readme-stats)
+<!--[![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=Lauiskk&show_icons=true&theme=tokyonight&bg_color=00000000&include_all_commits=true&count_private_true&rank_icon=github")](https://github.com/Lauiskk/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lauiskk&langs_count=20&layout=compact)](https://github.com/Lauiskk/github-readme-stats)-->
 
