@@ -10,11 +10,11 @@
   
 🔭 I’m currently working on my development as a dev in the front and back-end areas  
 
-🌱 I’m currently learning JavaScript and React, soon will learn Java. I'm interested in C# and .net too.  
+🌱 I’m currently learning Golang, soon will learn other back end stuff. I'm interested in C# and .net too.  
 
-👯 I’m looking to collaborate on any company that is looking for someone dedicated   
+👯 Nowadays im working at Fitbak as a Back-end developer! 
 
-🤔 I’m looking for help to find a job in the area, and any kind of help to learn something.   
+🤔 I’m always lookin for any kind of help to learn something!   
 
 📫 How to reach me: vrluis157@gmail.com  
 
