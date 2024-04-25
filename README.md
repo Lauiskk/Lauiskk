@@ -14,7 +14,7 @@
 
 👯 Nowadays im working at Fitbak as a Back-end developer! 
 
-🤔 I’m always lookin for any kind of help to learn something!   
+🤔 I’m always looking for any kind of help to learn something!   
 
 📫 How to reach me: vrluis157@gmail.com  
 
