@@ -8,7 +8,7 @@
 
 <div align="center">
   
-🔭 I’m currently working on my development as a dev in the front and back-end areas  
+🔭 I’m currently working on my development as a back-end developer  
 
 🌱 I’m currently learning Golang, soon will learn other languages like Ruby. I'm interested in C# and .net too, but now I want to learn Ruby.  
 
@@ -20,7 +20,7 @@
 
 ⚡ Fun fact: I love to play every kind of game. I'm a nerd.  
 
-🌎 I’m Brazilian, I speak portugues and english! 
+🌎 I’m Brazilian, I speak portuguese and english! 
 
 </div>
 
