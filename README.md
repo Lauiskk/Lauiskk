@@ -10,7 +10,7 @@
   
 🔭 I’m currently working on my development as a back-end developer  
 
-🌱 I’m currently learning Golang, soon will learn other languages like Ruby. I'm interested in C# and .net too, but now I want to learn Ruby.  
+🌱 I’m currently learning Python, soon will learn other languages like Ruby. I'm interested in C# and .net too, but now I want to learn Ruby.  
 
 👯 Nowadays im working at Fitbak as a Back-end developer! 
 
