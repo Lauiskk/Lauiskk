@@ -93,7 +93,7 @@
 
 <div align= "center">
   <a href="https://github.com/Lauiskk">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lauiskk&rank_icon=github&include_all_commits=true&theme=tokyonight&count_private_true&show_icons=true&bg_color=00000000"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lauiskk&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private_true&show_icons=true&bg_color=00000000"/>
   </a>
   <a href="https://github.com/Lauiskk">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauiskk&layout=compact&langs_count=20&theme=tokyonight"/>
