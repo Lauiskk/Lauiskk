@@ -4,6 +4,7 @@
 
 **Backend engineer in Goiânia, Brazil.** I build services that move money and video —
 Go and Elixir microservices on Kubernetes, Kafka between them, and an API surface that holds up.
+Remote-friendly, English at C1, open to full-time and contract work.
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00ffff?style=for-the-badge&logo=vercel&logoColor=0a0e27)](https://luisfelipe-theta.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-9d00ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisinfelipe)
@@ -13,29 +14,7 @@ Go and Elixir microservices on Kubernetes, Kafka between them, and an API surfac
 
 ---
 
-### What I actually ship
-
-```go
-package main
-
-type Engineer struct {
-    Location  string
-    Core      []string
-    Runtime   []string
-    Scale     string
-    OpenTo    []string
-}
-
-func main() {
-    _ = Engineer{
-        Location: "Goiânia, BR · remote-friendly · English C1",
-        Core:     []string{"Golang", "Elixir"},
-        Runtime:  []string{"Kubernetes (EKS)", "Kafka", "PostgreSQL", "Docker"},
-        Scale:    "fintech payments at J.P. Morgan volume",
-        OpenTo:   []string{"full-time", "contract"},
-    }
-}
-```
+### What I work with
 
 <table>
 <tr><td width="50%" valign="top">
@@ -70,52 +49,7 @@ func main() {
 
 ---
 
-### Things worth opening
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### 🎟️ [Ticket to Ride](https://github.com/Lauiskk/ticket-to-ride)
-**[▶ Live](https://ticket-to-ride-psi.vercel.app)**
-
-Events and ticketing in production. Stripe end to end, cryptographically signed
-QR tickets the gate validates offline, four distinct roles.
-
-`TypeScript` `Stripe` `PostgreSQL`
-
-</td>
-<td width="33%" valign="top">
-
-#### 📡 [Junto](https://github.com/Lauiskk/junto)
-
-Share a window **with its sound** — the one thing no browser can do alone.
-Electron captures, WebRTC carries it peer to peer, viewers just open a link.
-
-`Electron` `WebRTC` `P2P`
-
-</td>
-<td width="33%" valign="top">
-
-#### 🎬 [Movies API](https://github.com/Lauiskk/AwesomeProject)
-
-Go microservices over gRPC in ports-and-adapters: a gateway that owns HTTP,
-a service that owns the domain, Protocol Buffers as the contract.
-
-`Golang` `gRPC` `MongoDB`
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lauiskk&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=00ffff&icon_color=ff00ff&text_color=a8b2d1&hide=issues" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauiskk&layout=compact&hide_border=true&bg_color=0a0e27&title_color=00ffff&text_color=a8b2d1&langs_count=8" alt="Top languages" />
-
-<br/><br/>
 
 ### 🐍 Contribution Snake
 
@@ -129,11 +63,6 @@ a service that owns the domain, Protocol Buffers as the contract.
 
 <br/>
 
-```js
-while (alive) { eat(); sleep(); code(); repeat(); }
-```
-
-**Open to full-time and contract work.**
 [Portfolio](https://luisfelipe-theta.vercel.app) · [LinkedIn](https://www.linkedin.com/in/luisinfelipe) · [vrluis157@gmail.com](mailto:vrluis157@gmail.com) · [Twitch](https://www.twitch.tv/lauiskkj)
 
 </div>
