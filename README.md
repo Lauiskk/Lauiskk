@@ -5,7 +5,7 @@
 **Backend engineer in Goiânia, Brazil.** I build services that move money and video —
 Go and Elixir microservices on Kubernetes, Kafka between them, and an API surface that holds up.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00ffff?style=for-the-badge&logo=vercel&logoColor=0a0e27)](https://luisfelipe.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00ffff?style=for-the-badge&logo=vercel&logoColor=0a0e27)](https://luisfelipe-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-9d00ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisinfelipe)
 [![Email](https://img.shields.io/badge/EMAIL-ff00ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrluis157@gmail.com)
 
@@ -125,7 +125,7 @@ a service that owns the domain, Protocol Buffers as the contract.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lauiskk/Lauiskk/output/github-contribution-grid-snake.svg">
 </picture>
 
-*You can [**play snake on this exact grid**](https://luisfelipe.vercel.app/#snake) on my portfolio.*
+*You can [**play snake on this exact grid**](https://luisfelipe-dev.vercel.app/#snake) on my portfolio.*
 
 <br/>
 
@@ -134,6 +134,6 @@ while (alive) { eat(); sleep(); code(); repeat(); }
 ```
 
 **Open to full-time and contract work.**
-[Portfolio](https://luisfelipe.vercel.app) · [LinkedIn](https://www.linkedin.com/in/luisinfelipe) · [vrluis157@gmail.com](mailto:vrluis157@gmail.com) · [Twitch](https://www.twitch.tv/lauiskkj)
+[Portfolio](https://luisfelipe-dev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/luisinfelipe) · [vrluis157@gmail.com](mailto:vrluis157@gmail.com) · [Twitch](https://www.twitch.tv/lauiskkj)
 
 </div>
